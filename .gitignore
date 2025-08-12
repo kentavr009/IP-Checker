@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+*.egg-info/
+dist/
+build/
+
+# IDE / Editor specific
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Project output files
+*.csv
+ips.txt
